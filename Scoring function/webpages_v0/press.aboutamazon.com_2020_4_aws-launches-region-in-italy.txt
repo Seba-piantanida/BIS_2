@@ -1,0 +1,303 @@
+AWS-Launches-Region-in-Italy
+Facebook
+Google Plus
+Instagram
+Mail To
+LinkedIn
+Pinterest
+Quotation Mark
+Tumblr
+Twitter
+Youtube
+RSS
+magnify
+greater than
+Quote
+Close
+Search
+Right arrow
+Icon for read more (cta)
+Download Icon
+Whatsapp Icon
+Who We Are
+Open Item
+Who We Are
+Amazon Leadership Principles
+Our Positions
+Awards and Recognition
+Facts About Amazon
+What We Do
+Open Item
+What We Do
+Amazon Store
+Delivery and Logistics
+Devices and Services
+Amazon Web Services
+Entertainment
+Our Workplace
+Open Item
+Our Workplace
+Our Employees
+Employee Benefits
+Diversity, Equity, and Inclusion
+Upskilling and Training
+Safety at Amazon
+Facilities
+Corporate Offices
+Amazon fulfillment center T ours
+Our Impact
+Open Item
+Our Impact
+Economic Impact
+Economic Growth
+Job Creation
+Community Investments
+Empowerment
+Small Businesses
+Public Skills Training Programs
+Authors
+AWS Customers
+Delivery Partners
+Community Impact
+STEM Education
+Housing Equity
+Help for Hunger
+Disaster Relief and Response
+Our Planet
+Open Item
+Our Planet
+The Climate Pledge
+Sustainable Operations
+Improving Packaging
+Our Supply Chain
+Sustainability Website
+Follow Us
+Open Item
+Follow Us
+Twitter
+@AmazonNews
+@Amazon
+@Amazon_Policy
+Linkedin
+Amazon
+Instagram
+Amazon
+Amazon Vest Life
+Facebook
+Amazon
+YouTube
+Amazon News
+Blogs and news sites
+Amazon Science
+AWS News Blog
+Amazon Ads
+Subscribe
+en
+International sites
+Asia Pacific
+Australia
+About Amazon (English)
+India
+About Amazon (English)
+Japan
+About Amazon (日本語)
+Singapore
+About Amazon (English)
+Europe
+European Union
+About Amazon (English)
+France
+About Amazon (Français)
+Germany
+About Amazon (Deutsch)
+Newsroom (Deutsch)
+Italy
+About Amazon (Italiano)
+Poland
+About Amazon (Polski)
+Spain
+About Amazon (Español)
+United Kingdom
+About Amazon (English)
+Americas
+United States
+About Amazon (English)
+Press Center (English)
+Canada
+About Amazon (English)
+About Amazon (Français)
+Press Center
+Mexico
+About Amazon (Español)
+Brazil
+About Amazon (Português)
+Amazon.com
+|
+Conditions of Use
+| © 1996-2024 Amazon.com, Inc. or its affiliates
+Menu
+Submit Search
+Search Query
+Close
+Show Search
+Who We Are
+Open Item
+Who We Are
+Amazon Leadership Principles
+Our Positions
+Awards and Recognition
+Facts About Amazon
+What We Do
+Open Item
+What We Do
+Amazon Store
+Delivery and Logistics
+Devices and Services
+Amazon Web Services
+Entertainment
+Our Workplace
+Open Item
+Our Workplace
+Our Employees
+Employee Benefits
+Diversity, Equity, and Inclusion
+Upskilling and Training
+Safety at Amazon
+Facilities
+Corporate Offices
+Amazon fulfillment center T ours
+Our Impact
+Open Item
+Our Impact
+Economic Impact
+Economic Growth
+Job Creation
+Community Investments
+Empowerment
+Small Businesses
+Public Skills Training Programs
+Authors
+AWS Customers
+Delivery Partners
+Community Impact
+STEM Education
+Housing Equity
+Help for Hunger
+Disaster Relief and Response
+Our Planet
+Open Item
+Our Planet
+The Climate Pledge
+Sustainable Operations
+Improving Packaging
+Our Supply Chain
+Sustainability Website
+Follow Us
+Open Item
+Follow Us
+Twitter
+@AmazonNews
+@Amazon
+@Amazon_Policy
+Linkedin
+Amazon
+Instagram
+Amazon
+Amazon Vest Life
+Facebook
+Amazon
+YouTube
+Amazon News
+Blogs and news sites
+Amazon Science
+AWS News Blog
+Amazon Ads
+Subscribe
+en
+Open Item
+International sites
+Asia Pacific
+Australia
+About Amazon (English)
+India
+About Amazon (English)
+Japan
+About Amazon (日本語)
+Singapore
+About Amazon (English)
+Europe
+European Union
+About Amazon (English)
+France
+About Amazon (Français)
+Germany
+About Amazon (Deutsch)
+Newsroom (Deutsch)
+Italy
+About Amazon (Italiano)
+Poland
+About Amazon (Polski)
+Spain
+About Amazon (Español)
+United Kingdom
+About Amazon (English)
+Americas
+United States
+About Amazon (English)
+Press Center (English)
+Canada
+About Amazon (English)
+About Amazon (Français)
+Press Center
+Mexico
+About Amazon (Español)
+Brazil
+About Amazon (Português)
+Press Center
+Press Release Archive
+Images & Videos
+Investor Relations
+Contact Us
+AWS Launches Region in Italy
+New AWS Europe (Milan) Region expands cloud pioneer’s global footprint, enabling customers to run applications and store their content in data centers in Italy
+SEATTLE--(BUSINESS WIRE)--Apr. 28, 2020-- Amazon Web Services (AWS), an
+Amazon.com
+company (NASDAQ:AMZN), today announced the opening of the AWS Europe (Milan) Region. With this launch, AWS now spans 76 Availability Zones within 24 geographic regions around the world, and has announced plans for nine more Availability Zones and three more AWS Regions in Indonesia, Japan, and Spain. The AWS Europe (Milan) Region is the sixth AWS Region in Europe alongside Dublin, Frankfurt, London, Paris, and Stockholm. Starting today, developers, startups, and enterprises, as well as government, education, and non-profit organizations can run their applications and serve end-users from data centers located in Italy, as well as leverage advanced AWS technologies to drive innovation. Customers and partners can get started today at:
+https://aws.amazon.com/local/italy/milan/
+“AWS customers in Italy are among the most creative and innovative organizations that we support anywhere in the world, and we are always inspired by the work they do with our technology,” said Peter DeSantis, Senior Vice President of Global Infrastructure and Customer Support, Amazon Web Services. “Cloud technology has been a key part of the transformation of industries across Italy – from automotive and utilities, to manufacturing and retail, and so much more. With the new AWS Milan Region we look forward to supporting even more customers as they grow their organizations and innovate for their users across virtually all industries.”
+The AWS Europe (Milan) Region has three Availability Zones. AWS Regions are composed of Availability Zones, which each comprise of one or more data centers and are located in separate and distinct geographic locations with enough distance to significantly reduce the risk of a single event impacting business continuity, yet near enough to provide low latency for high availability applications. Each Availability Zone has independent power, cooling, and physical security and is connected via redundant, ultra-low-latency networking. AWS customers focused on high availability can design their applications to run in multiple Availability Zones to achieve even greater fault-tolerance.
+AWS infrastructure regions meet the highest levels of security, compliance, and data protection. With the new region, customers with data residency requirements to store their content in Italy can do so with the assurance that they retain complete ownership of their data and it will not move unless they choose to move it. Additionally, customers building applications that comply with the General Data Protection Regulation (GDPR) have access to another secure AWS infrastructure region in the European Union (EU) that meets the highest levels of security, compliance, and data protection.
+AWS continues to invest in Italy
+The AWS Europe (Milan) Region adds to AWS’s ongoing investment in Italy. AWS first established a presence in the country in 2012, with the launch of an AWS Edge location in Milan. This was followed by an AWS office in the city in 2014 and another one in Rome in 2016, with significant and growing teams of account managers, business development managers, customer services representatives, partner managers, professional services consultants, solutions architects, technical account managers, and many more to help customers of all sizes as they move to the cloud. Also in 2016, AWS acquired Asti-based company NICE Software, a leading provider of software and services for high performance and technical computing, located in Piedmont. In 2017, an Edge location was opened in Palermo, and in 2019, an AWS Direct Connect endpoint launched in Milan, helping customers establish a dedicated network connection from their premises to AWS. Later in 2019, AWS launched two additional Edge locations in Milan and one in Rome. These investments are in addition to the thousands of permanent jobs and over €4 billion of investment from Amazon, since 2010.
+Developers and businesses can access the AWS Europe (Milan) Region beginning today. A full list of services and details on pricing is available at
+https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/
+About Amazon Web Services
+For 14 years, Amazon Web Services has been the world’s most comprehensive and broadly adopted cloud platform. AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 76 Availability Zones (AZs) within 24 geographic regions, with announced plans for nine more Availability Zones and three more AWS Regions in Indonesia, Japan, and Spain. Millions of customers—including the fastest-growing startups, largest enterprises, and leading government agencies—trust AWS to power their infrastructure, become more agile, and lower costs. To learn more about AWS, visit
+aws.amazon.com
+.
+About Amazon
+Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking. Customer reviews, 1-Click shopping, personalized recommendations, Prime, Fulfillment by Amazon, AWS, Kindle Direct Publishing, Kindle, Fire tablets, Fire TV, Amazon Echo, and Alexa are some of the products and services pioneered by Amazon. For more information, visit
+amazon.com/about
+and follow
+@AmazonNews
+.
+View source version on
+businesswire.com
+:
+https://www.businesswire.com/news/home/20200427005932/en/
+Amazon.com, Inc.
+Media Hotline
+Amazon-pr@amazon.com
+www.amazon.com/pr
+Source: Amazon Web Services
+Press release archive
+Investor Resources
+About Amazon
+Images and videos
+Contact Amazon PR
+Shop Amazon.com
+Careers
+Amazon.com
+|
+Conditions of Use
+| © 1996-2024 Amazon.com, Inc. or its affiliates

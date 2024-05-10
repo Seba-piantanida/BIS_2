@@ -1,0 +1,182 @@
+Elesa | Elesa+Ganter
+Message Dialog
+Close
+Display Update Message
+Product Comparison
+The maximum number of products that can be compared is 4. Please refine your selection.
+OK
+Your session is about to timeout due to inactivity.  Click OK to extend your time for an additional 240 minutes.
+OK
+aboutUsElesa
+This item has been successfully added to your list.
+Continue Shopping
+Select Country
+Worldwide
+English
+Česká republika
+Österreich
+España
+Polska
+India
+Россия
+Nederland
+Slovenija
+Türkiye
+中国
+România
+Deutschland
+Italia
+By selecting these countries, you leave the current website and you are redirected to the corresponding country website.
+Please note there may be changes in graphic and content.
+{"de":{"change":"Wechseln zu","extTitle":"Unsere Kunden in {0} werden durch {1} betreut. Bitte nutzen Sie deren Website in Ihrem Land.","extStay":"Auf {0} bleiben","extTitleMore":"Unsere Kunden in {0} werden durch {1} und {2} betreut. Bitte nutzen Sie deren Website in Ihrem Land.","changeShipmentCountry":"We only ship to {0}. Please change shipment country"},"ru":{"change":"\u041f\u0435\u0440\u0435\u0439\u0442\u0438","extTitle":"\u041d\u0430\u0448\u0438\u0445 \u043a\u043b\u0438\u0435\u043d\u0442\u043e\u0432 \u0432 {0} \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u0435\u0442 {1}. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u0435\u0433\u043e \u0432\u0435\u0431-\u0441\u0430\u0439\u0442 \u0434\u043b\u044f \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0432 \u0432\u0430\u0448\u0435\u0439 \u0441\u0442\u0440\u0430\u043d\u0435.","extStay":"\u041e\u0441\u0442\u0430\u0432\u0430\u0442\u044c\u0441\u044f \u043d\u0430 {0}","extTitleMore":"\u041d\u0430\u0448\u0438 \u043a\u043b\u0438\u0435\u043d\u0442\u044b \u0432 {0} \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u044e\u0442\u0441\u044f {1} \u0438 {2}. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u0438\u0445 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442 \u0434\u043b\u044f \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0432 \u0432\u0430\u0448\u0435\u0439 \u0441\u0442\u0440\u0430\u043d\u0435.","changeShipmentCountry":"We only ship to {0}. Please change shipment country"},"sv":{"change":"G\u00e5 till","extTitle":"V\u00e5ra kunder i {0} betj\u00e4nas av {1}. V\u00e4nligen anv\u00e4nd dess hemsida f\u00f6r information i ditt land.","extStay":"Stanna kvar p\u00e5 {0}","extTitleMore":"V\u00e5ra kunder i {0} betj\u00e4nas av {1} och {2}. V\u00e4nligen anv\u00e4nd deras hemsidor f\u00f6r information i ditt land.","changeShipmentCountry":"We only ship to {0}. Please change shipment country"},"en":{"change":"Go to","extTitle":"Our customers in {0} are served by {1}. Please use its website for information in your country.","extStay":"Stay on {0}","extTitleMore":"Our customers in {0} are served by {1} and {2}. Please use their website for information in your country.","changeShipmentCountry":"We only ship to {0}. Please change shipment country"},"it":{"change":"Vai a","extTitle":"I nostri clienti in {0} sono serviti da {1}. Utilizzi il loro sito per le informazioni relative al suo paese.","extStay":"Rimani su {0}","extTitleMore":"I nostri clienti in {0} sono serviti da {1} e {2}. Utilizzi il loro sito per le informazioni relative al suo paese.","changeShipmentCountry":"We only ship to {0}. Please change shipment country"},"fr":{"change":"J'y vais","extTitle":"Nos clients de {0} sont servis par {1}. Veuillez utiliser ce site Web pour obtenir des informations dans votre pays.","extStay":"Je reste sur {0}","extTitleMore":"Nos clients en {0} sont livr\u00e9s par {1} et {2}. Veuillez utiliser leur site Web pour obtenir des informations dans votre pays.","changeShipmentCountry":"We only ship to {0}. Please change shipment country"},"zh":{"change":"\u8f6c\u53bb","extTitle":"\u6211\u4eec\u5728{0}\u5730\u533a\u7684\u987e\u5ba2\u7531{1}\u63d0\u4f9b\u670d\u52a1\uff0c\u656c\u8bf7\u4f7f\u7528\u5176\u7f51\u7ad9\u4f5c\u4e3a\u53c2\u8003\u3002","extStay":"\u4fdd\u6301\u5728 {0}","extTitleMore":"\u6211\u4eec\u5728{0}\u5730\u533a\u7684\u987e\u5ba2\u7531{1}\u548c{2}\u63d0\u4f9b\u670d\u52a1\uff0c\u656c\u8bf7\u4f7f\u7528\u5176\u7f51\u7ad9\u4f5c\u4e3a\u53c2\u8003\u3002","changeShipmentCountry":"We only ship to {0}. Please change shipment country"},"es":{"change":"Ir a","extTitle":"Nuestros clientes en {0} son atendidos por {1}. Por favor, utilice su p\u00e1gina web para obtener informaci\u00f3n en su pa\u00eds.","extStay":"Permanezca en {0}","extTitleMore":"Nuestros clientes en {0} son atendidos por {1} y {2}. Por favor, utilice sus p\u00e1ginas web para obtener informaci\u00f3n en su pa\u00eds.","changeShipmentCountry":"We only ship to {0}. Please change shipment country"},"cs":{"change":"Jd\u011bte na","extTitle":"O na\u0161e z\u00e1kazn\u00edky z {0} se star\u00e1 {1}. Pros\u00edm nav\u0161tivte jejich str\u00e1nky pro informace ve Va\u0161\u00ed zemi","extStay":"Z\u016fsta\u0148te {0}","extTitleMore":"O na\u0161e z\u00e1kazn\u00edky z {0} se star\u00e1 {1} a {2}. Pros\u00edm nav\u0161tivte jejich str\u00e1nky pro informace ve Va\u0161\u00ed zemi","changeShipmentCountry":"We only ship to {0}. Please change shipment country"},"sl":{"change":"Pojdi na","extTitle":"Za na\u0161e kupce iz {0} skrbijo {1}. Prosim preverite informacije za va\u0161o dr\u017eavo na njihovi spletni strani.","extStay":"Ostani na {0}","extTitleMore":"Za na\u0161e kupce iz {0} skrbijo {1} in {2}. Prosim preverite informacije za va\u0161o dr\u017eavo na njihovi spletni strani.","changeShipmentCountry":"We only ship to {0}. Please change shipment country","extTitleSI":"Za na\u0161e stranke v {0} skrbi {1}. Prosimo preverite informacije na spletnem mestu va\u0161e dr\u017eave."},"pl":{"change":"Przejd\u017a na","extTitle":"Nasi Klienci w {0} s\u0105 obs\u0142ugiwani przez {1}. Zapraszamy do odwiedzenia strony internetowej naszego Partnera.","extStay":"Zosta\u0144 na {0}","extTitleMore":"Nasi klienci w {0} s\u0105 obs\u0142ugiwani przez {1} i {2}. Po wi\u0119cej informacji zapraszamy na strony internetowe naszych Partner\u00f3w.","changeShipmentCountry":"We only ship to {0}. Please change shipment country"},"ro":{"change":"Merge\u021bi pe site-ul","extTitle":"Clien\u021bii no\u0219tri din {0} sunt deservi\u021bi de {1}. Va rugam s\u0103 folosi\u021bi site-ul respectiv.","extStay":"R\u0103m\u00e2ne\u021bi pe site-ul {0}","extTitleMore":"Clien\u021bii no\u0219tri din {0} sunt deservi\u021bi de {1} \u0219i {2}. Va rugam s\u0103 folosi\u021bi site-urile respective.","changeShipmentCountry":"Livr\u0103m doar in {0}. V\u0103 rug\u0103m s\u0103 schimba\u021bi \u021bara de destina\u021bie."},"tr":{"change":"Gidiniz","extTitle":"{0} b\u00f6lgesindeki m\u00fc\u015fterilerimize {1} taraf\u0131ndan hizmet verilmektedir. L\u00fctfen \u00fclkenizdeki bilgilere eri\u015fmek i\u00e7in \u00fclkenizin web sitesini kullan\u0131n. ","extStay":"{0} b\u00f6lgesinde kal\u0131n\u0131z","extTitleMore":"{0} b\u00f6lgesindeki m\u00fc\u015fterilerimize {1} ve {2} taraf\u0131ndan hizmet verilmektedir. L\u00fctfen \u00fclkenizdeki bilgilere eri\u015fmek i\u00e7in \u00fclkenizin web sitesini kullan\u0131n.","changeShipmentCountry":"We only ship to {0}. Please change shipment country"},"nl":{"change":"Ga naar","extTitle":"Klanten in {0} worden geholpen door {1}. Op hun website vindt u alle relevante informatie.","extStay":"Blijf op {0}","extTitleMore":"Our customers in {0} are served by {1} and {2}. Please use their website for information in your country.","changeShipmentCountry":"We only ship to {0}. Please change shipment country"},"sr":{"change":"Idi na","extTitle":"Na\u0161e klijente u {0} opslu\u017euje {1}. Koristite njegovu internet stranicu za informacije u svojoj zemlji.","extStay":"Ostanite na {0}","extTitleMore":"Na\u0161e klijente u {0} opslu\u017euju {1} \u200b\u200bi {2}. Koristite njihovu internet  stranicu za informacije u svojoj zemlji.","changeShipmentCountry":"\u0160aljemo samo na adresu {0}. Molimo promenite zemlju isporuke"}}
+Worldwide
+My E+G
+Quick Links
+Contact
+My E+G
+Current Order
+0
+This item has been successfully added:
+Close
+???MSC_GO_TO_CART???
+Products
+Company
+Media & Service
+SearchComponentAutoSuggestView?coreName=MC_10001_CatalogEntry_en_US&serverURL=http%3a%2f%2fsearch.elesaganter.local%3a3737%2fsolr%2fMC_10001_CatalogEntry_en_US&langId=-1&storeId=10158&catalogId=10051
+SearchComponentAutoSuggestView?coreName=MC_10001_CatalogEntry_en_US&serverURL=http%3a%2f%2fsearch.elesaganter.local%3a3737%2fsolr%2fMC_10001_CatalogEntry_en_US&langId=-1&storeId=10158&catalogId=11051
+Search
+Products
+Media & Service
+Suggested keywords menu
+Suggested site content and search history menu
+Search
+Product Group
+New products
+High performing items
+Customised Solutions
+Sectors and applications
+Products
+Products
+New products
+High performing items
+Customised Solutions
+Sectors and applications
+Company
+Media & Service
+Worldwide
+Contact
+Quick order
+Back
+Worldwide
+English
+Česká republika
+España
+India
+Nederland
+Österreich
+Polska
+Россия
+Slovenija
+Türkiye
+中国
+România
+Deutschland
+Italia
+By selecting these countries, you leave the current website and you are redirected to the corresponding country website.
+Please note there may be changes in graphic and content.
+Code
+Quantity
+Add to cart
+Import using CSV
+Close
+Cart loading via csv/Excel
+You can import a csv/Excel file by uploading the file or pasting the content into the dedicated space.
+The csv document must have the following structure:
+Two columns: Code, Quantity (don’t add other columns)
+comma, semicolon or | or TAB as a separator between columns
+Do not list column names, only items and quantities
+Example: (
+demo.csv
+)
+78711-R,20
+78710-R,10
+78712-R,50
+or
+GN 300-30-B5-SW;60
+GN 612-5-M12x1,5-A;40
+DIN 172-B10;5-20-A;50
+ISO 8675-M8x1-04-BT;10
+Upload a file from your computer
+Select file
+No file selected
+Import
+Or Copy/paste from Excel
+Paste the contents of your csv file here
+Import
+Close
+Go to Current Order
+The Italian parent Company
+For over 80 years ELESA has been the international reference for standard components destined to the mechanical and machinery industrial equipment sectors.
+About Elesa
+Established in 1941 in Italy, ELESA has earned the status as a reference point for designers and machine builders. An excellent combination of technology and design has given rise to a diverse production thanks to the constant commitment to follow developments in engineering plastics and their processing technology.
+A corporate culture strongly committed to product quality combined with an innate sensitivity for design and ergonomic research has led to the creation of products unique and recognisable worldwide as ELESA products. An authentical “Made in Italy” which has become popular around the world and particularly appreciated by the most qualified machine manufacturers.
+ELESA is associated with:
+ELESA France
+STANDARD MACHINE ELEMENTS SA SU
+ELESA (UK) LTD
+ELESA USA CORPORATION
+ELESA SCANDINAVIA AB (SE)
+ELESA SWITZERLAND SA
+ELESA CANADA LTD.
+Since the 50’s, ELESA has been actively involved in the cultural revision of machine tool aesthetics, that was taking shape around that time, by innovating the design of accessories and components for the mechanical industry, machinery and industrial equipment.
+An ongoing commitment to which ELESA has always been loyal over the decades, as proven by more than 50 industrial design awards from the most prestigious juries, received in the last 40 years and the 300 patents and registered designs.
+ELESA continues to invest in R & D and in particular in the innovation of its production technologies aiming to creating new products or to further improve performances and reliability of the existing ones.
+Tens of millions of pieces are produced every year at the parent company in Monza using the latest automated production technologies.
+A keen dedication to product quality combined with Italian design represent in brief ELESA company culture.
+Production facilities in Monza
+Logistic centre
+R&D Department - Test Laboratory
+Automatic production unit
+All standard products in the ELESA range are subject to mechanical, physical, chemical and durability testing in order to provide correct and reliable technical data.
+Most of the tests are carried out in the ELESA laboratory, a modern facility equipped with the most advanced testing instruments which is also at the disposal of customers for carrying out tests that simulate specific or particularly heavy conditions of use.
+ELESA uses electricity produced only from 100% renewable sources, i.e. energy produced through the use of natural resources (water, sunlight, wind, tides, geothermal heat, etc.) which therefore do not involve CO2  emissions (which are instead produced by coal, oil and gas). With this logo Elesa qualifies its sensitivity towards environmental issues.
+Certifications
+Environmental Management
+Quality Management
+Occupational Health and Safety Management
+Subscribe to newsletter
+Your request was sent and will be answered as fast as possible.
+Error
+This site is protected by reCAPTCHA Enterprise and the
+Google Privacy Policy
+and
+Terms of Service
+apply.
+I agree to the
+Privacy Notice
+Send
+General
+Contact
+Terms and Conditions of Use
+Privacy Notice
+Cookies - Preferences
+Imprint
+Service
+My E+G
+Catalogue Request
+Customised Solutions
+Quality and Service
+Downloads
+Catalogues
+Operating Instructions
+Technical Data
+Videos
+Certificates
+News
+Newsletter
+News
+Press Releases
+Exhibitions
+Follow us
+Standard Machine Elements Worldwide
+© 2024 ELESA S.p.A. | Otto Ganter GmbH & Co. KG

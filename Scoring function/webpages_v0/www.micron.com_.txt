@@ -1,0 +1,283 @@
+Micron Technology | Global Leaders in Semiconductors | Micron Technology Inc.
+menu
+clear
+MENU
+DESIGN TOOLS
+search
+language
+clear
+Login
+Products
+Market & Industries
+Partners
+Sales & Support
+About
+Investor Relations
+Products overview
+Memory
+DRAM components
+DRAM modules
+CXL-based memory
+LPDDR
+Graphics memory
+High-bandwidth memory
+Multichip packages
+e.MMC-based MCP
+UFS-based MCP (uMCP)
+NAND-based MCP
+Storage
+SSD
+Data center SSD storage
+Client & mobile SSD storage
+Auto and industrial SSD storage
+Managed NAND
+NAND flash
+NOR flash
+Memory cards
+Design tools
+FBGA & part decoder
+Simulation models
+Chipset compatability guide
+SPD part number look up
+DRAM power calculators
+NAND system power calculator
+UFSparm
+SSD firmware
+Software & drivers
+Storage executive software
+Quality
+Product lifecycle solutions
+Obsolete part catalogs
+Cross-reference tools
+Micron design tools and utilities
+Visit Design tools
+Market & industries overview
+AI market
+AI
+Automotive
+Functional safety for automotive
+Client PC market
+Client PC
+Consumer market
+Consumer
+Data center & servers
+Cloud
+Data center storage insights
+High-performance computing
+Industrial market
+Industrial
+Mobile market
+Mobile
+Network infrastructure market
+Network infrastructure
+AI and machine learning
+Learn about AI
+Partners overview
+Partner networks
+Channel partners
+Chipset partners
+Design IP partner program
+Verification IP partner program
+Industrial quotient partner program
+Storage ecosystem partner program
+Become a partner
+Partner login
+Sales network
+Suppliers
+Technology enablement programs
+DDR5 TEP resources
+CXL TEP resources
+Technology Enablement Program (TEP)
+Visit TEP
+Sales & support overview
+Customer support
+Technical support contact
+Quality
+FAQs
+Obsolete part catalogs
+Customer trust center
+Sales
+Surplus
+Sales support contact
+Sales network
+Authorized distributors
+Order samples
+Downloads & technical documentation
+SSD firmware
+Software & drivers
+White papers
+Compatibility guides
+Data sheets
+Technical notes
+All downloads & technical documentation
+Contact Micron's sales support
+Sales support
+About overview
+Company
+Security
+Customer trust center
+Product security center
+Global affairs & public policy
+Leadership
+Ventures
+Our commitment
+Quality
+Suppliers
+Company timeline
+Opportunity for all
+Environmental, social and governance
+Corporate governance
+Compliance & ethics
+Micron Gives
+Diversity, equality & inclusion
+Sustainability
+Responsible sourcing
+ESG resources
+Micron blog
+Blog
+Micron events
+Events
+Careers
+Working at Micron
+Locations
+Search jobs
+Press
+Newsroom
+Media relations
+Image gallery
+Trademark & usage guidelines
+Micron awards and recognitions
+Awards & recognitions
+Visit Careers to join our team.
+Careers
+Investor Relations overview
+Visit Micron's Investor Relations
+Investor Relations
+DESIGN TOOLS
+language
+Login
+chevron_left
+Back
+US - English
+China - 简体中文
+India - English
+Japan - 日本語
+Malaysia - English
+Singapore - English
+Taiwan – 繁體中文
+search
+Suggested Search
+See All
+Search
+chevron_left
+Back
+Login / Register
+Login
+Register
+Unable to login? Visit
+SSO Login Support
+My Micron Dashboard
+Logout
+Privacy Policy
+HIGH BANDWIDTH MEMORY
+Micron HBM3E
+Micron's 8-high and 12-high HBM3E memory further fuel AI innovation at 30% lower power consumption than competition. Micron 8-high 24GB will ship with NVIDIA H200 tensor Core GPUs in CQ2, 2024. Micron 12-high 36GB samples are now available.
+Learn about HBM3E
+Market and industries
+At the forefront of memory innovation for AI
+Learn about AI
+Expansion
+Propelling American Innovation
+Read more
+DRAM
+Micron First to Ship Critical Memory for AI Data Center
+Learn more
+Client SSD
+Industry's first 200+ layer QLC NAND client SSD
+Visit 2500 NVMe™ SSD
+Automotive
+The world’s first quad-port automotive SSD
+Learn about 4150AT SSD
+Micron Gives
+On a mission to make a difference
+View year-end summary
+Slide 6
+Slide 2
+Slide 4
+Slide 1
+Slide 5
+DEI
+See more
+Expansion
+With support of $6.1B CHIPS grant, Micron plans to invest $50 billion in gross capex for U.S. domestic leading-edge memory manufacturing through 2030
+These grants will support construction of one leading-edge memory manufacturing fab in Boise, Idaho and the construction of two leading-edge memory fabs in Clay, New York. This is the first step in Micron's vision for a potential investment of up to $125 billion in leading-edge memory manufacturing over the next 20-plus years. These facilities are expected to create approximately 75,000 U.S. jobs, building supply chain resilience, and ensuring U.S. economic and national security that will drive America’s technology leadership.
+Learn about New York
+Learn about Idaho
+Markets & Industries
+Memory and storage technology for industrial IoT
+Micron's innovative portfolio of memory and storage technology helps create "smarter" IoT (internet of things) devices and supports a wide assortment of industries with an array of options. In addition, Micron devices work with a variety of applications like IoT gateways and edge servers, industrial automation, aerospace and defense and video security.
+Learn about IOT
+Storage
+Advancing data center storage
+Micron's advanced NAND based data center SSDs deliver extensive capacity and deployment options that enable flexible solution design for a variety of data center workloads. The world’s first 200+ layer data center SSD, the Micron 6500 ION NVMe™ SSD, delivers best-in-class performance, features 30.72TB of storage and enhanced security capabilities.
+Visit storage solutions
+Innovation makes new solutions possible
+Data center
+Learn more
+Client PC
+Learn more
+Automotive
+Learn more
+Mobile
+Learn more
+Design tools
+Find all the tools and resources you need to optimize Micron’s products and solutions for your technologies and designs.
+FBGA and component marking decoder
+Power calculators
+SIM models
+Chipset compatibility guides
+SPD part number lookup
+Cross-reference tools
+UFSparm
+SSD firmware
+Software & driver downloads
+Obsolete part catalogs
+View design tools
+Careers
+Your future starts here
+At Micron, we foster a culture of inclusion and growth to bring out the best in each other. With global opportunities, team member development and career advancement, we invest in you. Help us drive tomorrow's technology to enrich life for all.
+Innovate with us
+DEI report
+Accelerating a global culture of innovation and inclusion
+Micron’s deep, global commitment to diversity, equality and inclusion (DEI) stems from our belief that it drives market competitiveness, spurs innovation, advances our corporate mission, and is the right thing to do 𝘧𝘰𝘳 𝘢𝘭𝘭.
+Visit DEI
+Customer support
+Need to get a hold of us? Contact our support teams as well as get contact information for our individual locations.
+Contact support
+Sales
+Contact our sales support team directly by completing the Sales Support form on our Contact Us page.
+Contact sales
+Order a Micron sample
+Your online source for placing and tracking orders for Micron memory samples.
+Order samples
+Downloads & technical documentation
+Dive deeper into product features or functionality and get design guidance.
+View documentation
+Products
+Markets & industries
+Partners
+Sales and support
+About
+Investor relations
+Contact us
+Sales support
+Technical support
+Legal
+Micron privacy notice
+Suppliers
+Terms and conditions of sale
+Careers
+Your privacy choices
+©
+2023
+Micron Technology, Inc. All rights reserved. Information, products, and/or specifications are subject to change without notice. All information is provided on an “AS IS” basis without warranties of any kind. Drawings may not be to scale. Micron, the Micron logo, and all other Micron trademarks are the property of Micron Technology, Inc. All other trademarks are the property of their respective owners.

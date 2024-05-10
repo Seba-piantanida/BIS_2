@@ -1,0 +1,616 @@
+Fortinet | Ottimizzare il Security Fabric
+DEMO PRODOTTI GRATUITA
+SERVICES
+SUPPORT
+DOWNLOAD
+FORTICLOUD LOGIN
+username
+Cerca
+USA (English)
+UK & Ireland (English)
+Germany (Deutsch)
+France (Français)
+Italy (Italiano)
+China (简体中文)
+Taiwan (繁體中文)
+Korea (한국어)
+Japan (日本語)
+Brazil (Portugués)
+Latin America
+(Español)
+Prodotti
+Sicurezza della rete
+Firewall a mesh ibrida
+Next-Generation Firewall
+Virtual Network Firewall
+Cloud-Native Firewall
+Single-Vendor SASE
+Secure Access Service Edge (SASE)
+Secure SD-WAN
+Zero Trust Access
+Zero Trust Network Access (ZTNA)
+Network Access Control (NAC)
+NOC Management
+Gestione centralizzata
+Digital Experience Monitoring
+Servizi di Cybersecurity
+FortiGuard Security Portfolio
+CASB
+URL Filtering
+Intrusion Prevention Service (IPS)
+DNS Filtering
+Inline Sandbox
+IoT Detection
+Latest From Fortinet
+Un Challenger nel Gartner® Magic Quadrant™ 2023 per Single-Vendor SASE​
+FortiSASE: sicurezza coerente per la forza lavoro ibrida
+Scarica lo Studio
+Enterprise Networking
+SD-WAN
+Secure SD-WAN
+LTE/5G Gateway
+LAN
+Switching
+Wireless LAN (WLAN)
+Cloud-Based LAN Management
+COMUNICAZIONE E SORVEGLIANZA
+Voce and Collaborazione
+Video Sorveglianza
+NOC Management
+Gestione centralizzata
+Digital Experience Monitoring
+Artificial Intelligence per IT Operations
+Servizi di Cybersecurity
+FortiGuard Security Portfolio
+Latest From Fortinet
+4x un Leader 3x Alta Capacità di Esecuzione
+L'unico leader con la più alta capacità di esecuzione per tre anni consecutivi nel Gartner® Magic Quadrant™ 2023 per SD-WAN.
+Scarica il report
+Protezione endpoint
+Endpoint Security
+Soluzioni di Endpoint Security
+Endpoint Detection & Response (EDR)
+Extended Detection & Response (XDR)
+CONNETTIVITA' SICURA ENDPOINT
+Security Agent (FortiClient)
+Identity
+Identity Access Management (IAM)
+Identity as-a-Service
+Privileged Access Management
+SERVIZI EXPERT
+Managed Detection & Response (MDR)
+SOC-as-a-Service (SOCaaS)
+Servizi di Cybersecurity
+FortiGuard Security Portfolio
+Latest From Fortinet
+Stategia Zero-Trust: le principali priorità di quest'anno
+La nostra indagine ha rivelato che le organizzazioni che stanno attivamente implementando le soluzioni Zero Trust affrontano sfide legate alle integrazioni tra queste soluzioni implementate in loco e
+Scarica il report
+Security Operations
+PIATTAFORME DI SECURITY OPERATIONS
+Security Fabric Analytics
+Security Information & Event Management (SIEM/UEBA)​
+Security Orchestration, Automation, & Response (SOAR/TIM)​
+Extended Detection and Response (XDR)
+RILEVAMENTO PRECOCE E PREVENZIONE
+Network Detection & Response (NDR)
+Deception Technology
+Digital Risk Protection Systems (DRPS)
+IL Malware Analysis
+Soluzioni di Endpoint Security
+SERVIZI EXPERT
+Incident Response
+Servizi di Security Advisory
+Servizi di Ransomware Advisory
+Managed Detection & Response (MDR)
+SOC-as-a-Service (SOCaaS)
+Servizi di Cybersecurity
+FortiGuard Security Portfolio
+Latest From Fortinet
+Ridurre il Cyber Risk da settimane a pochi minuti
+L'Enterprise Strategy Group quantifica la riduzione di tempo, sforzi e rischi grazie alle soluzioni di Operazioni di Sicurezza di Fortinet.
+Scarica il report
+Operational Technology
+Panoramica
+Secure Operational Technology
+Prodotti
+Ruggedized Network Firewall
+Security Information & Event Management (SIEM/UEBA)​
+Security Orchestration, Automation, & Response (SOAR/TIM)​
+Privileged Access Management
+Secure Ethernet Switches
+Endpoint Detection & Response (EDR)
+Servizi di Cybersecurity
+FortiGuard Security Portfolio
+Industrial Security
+IoT Detection
+Inline Sandbox
+Intrusion Prevention Service (IPS)
+SERVIZI EXPERT
+SOC-as-a-Service (SOCaaS)
+OT Tabletop Exercise
+Latest From Fortinet
+Fortinet è uno dei fornitori di sicurezza OT in più rapida crescita
+Fortinet riconosciuta come unico leader nel Westlands Advisory 2023 IT/OT Network Protection Platforms Navigator™
+Scarica il report
+Application Security
+Sicurezza della rete cloud
+Virtual Network Firewall
+Cloud-Native Firewall
+Denial-of-Service (DDoS) Protection
+Web Application / API Protection
+Web Application Firewall
+Application Delivery & Server Load Balancing
+Test dinamici della sicurezza delle applicazioni (DAST)
+Secure Email
+Email Security
+Cloud-Native Protection
+Workload Protection & Cloud Security Posture Management
+DevSecOps
+Cloud Service Providers
+AWS
+Microsoft Azure
+Google Cloud
+Oracle
+Servizi di Cybersecurity
+FortiGuard Security Portfolio
+Tutti i prodotti
+Soluzioni
+Impresa
+In evidenza
+Secure Networking
+Work from Anywhere?
+Secure Application Journey
+Secure Operational Technology
+Security Operations
+GenAI-powered Security Assistant
+Piattaforma di Cybersecurity
+Hybrid Mesh Firewall
+Fortinet Security Fabric
+FortiOS
+Flexible Consumption Licensing
+Licenze basate sull’utilizzo
+Latest From Fortinet
+318% ROI dimostrato nello studio Forrester TEI
+Fortinet NGFW per Data Center e la soluzione FortiGuard di Servizi di Security AI- Powered
+Scarica lo Studio
+Piccole e medie imprese
+Panoramica
+Protezione Completa
+Network Security
+Endpoint Security
+Sicurezza delle Applicazioni Cloud & Email
+Prodotti
+Network Firewalls
+Management & Reporting
+Email Security
+Casi d’uso
+Teleworking at Scale
+Latest From Fortinet
+Uno dei leader posizionato più in alto nella capacità di esecuzione
+Riconoscimento nel Gartner® Magic Quadrant™ 2022 per i Network Firewall per la 13a volta.
+Scarica il report
+Operational Technology
+Panoramica
+Secure Operational Technology
+Prodotti
+Ruggedized Network Firewall
+Security Information & Event Management (SIEM/UEBA)​
+Security Orchestration, Automation, & Response (SOAR/TIM)​
+Privileged Access Management
+Secure Ethernet Switches
+Endpoint Detection & Response (EDR)
+Servizi di Cybersecurity
+FortiGuard Security Portfolio
+Industrial Security
+IoT Detection
+Inline Sandbox
+Intrusion Prevention Service (IPS)
+SERVIZI EXPERT
+SOC-as-a-Service (SOCaaS)
+OT Tabletop Exercise
+Latest From Fortinet
+Fortinet è uno dei fornitori di sicurezza OT in più rapida crescita
+Fortinet riconosciuta come unico leader nel Westlands Advisory 2023 IT/OT Network Protection Platforms Navigator™
+Scarica il report
+Industria
+IT/OT
+Operational Technology
+Produzione
+SCADA/ICS
+Oil & Gas
+Power Utilities
+Health and Medical
+Sanità
+Pharmaceutical
+Istruzione
+Istruzione superiore
+K–12 School Districts
+CONSUMATORI
+Servizi Finanziari
+Retail
+Hospitality
+TUTTE LE INDUSTRIE
+Guarda tutti
+Latest From Fortinet
+Fortinet è uno dei fornitori di sicurezza OT in più rapida crescita
+Fortinet riconosciuta come unico leader nel Westlands Advisory 2023 IT/OT Network Protection Platforms Navigator™
+Scarica il report
+Fornitore di servizi
+Managed Services
+Soluzioni
+MSSP Cybersecurity
+Managed SD-WAN PER Service Providers
+Servizio di Managed SOC
+Servizio di Managed Cloud Security
+Servizio di Managed WAF
+Casi studio
+Orange Business Services
+GTT Communications
+Spark NZ
+Guarda tutti
+Communication Service Providers
+Soluzioni
+Panoramica
+Headquarters Network Security
+PCI Compliance
+Secure Networking
+ATP
+Adaptive Cloud Security
+Sicurezza per gli operatori di telefonia mobile
+Panoramica
+Cybersecurity per reti ed ecosistemi mobili
+Latest From Fortinet
+Sicurezza efficiente dal punto di vista energetico e spaziale nelle Reti Telco
+Proteggi la tua infrastruttura riducendo i costi energetici e l'impatto ambientale complessivo.
+Scarica il White Paper
+Supporto & Servizi
+Servizi di Cybersecurity
+Cybersecurity Subscriptions
+FortiGuard Security Portfolio
+CASB
+URL Filtering
+DNS Filtering
+Inline Sandbox
+Intrusion Prevention Service (IPS)
+IoT Detection
+Industrial Security
+Security Rating
+Formazione dei dipendenti
+Free Training
+Security Awareness Training
+Simulazione del phishing
+SERVIZI EXPERT
+Incident Response
+Managed Detection & Response (MDR)
+Servizi di Ransomware Advisory
+Servizi di Security Advisory
+SOC-as-a-Service (SOCaaS)
+Latest From Fortinet
+Global Threat Landscape Report, 2H 2022
+Nuove vulnerabilità sono in aumento, senza contare quelle esistenti.
+Scarica il report
+Supporto FortiCare
+Assistenza
+Customer Support & RMA
+Supporto Avanzato
+Risorse
+Hai sperimentato un Breach?
+Registrazione dei Prodotti
+Libreria Documenti
+Fortinet Community
+Supporto
+Latest From Fortinet
+Global Threat Landscape Report, 2H 2022
+Nuove vulnerabilità sono in aumento, senza contare quelle esistenti.
+Scarica il report
+Gartner® Magic Quadrant™ 2022 per Enterprise Wired e Wireless LAN Infrastructure
+Fortinet è stata nominata Visionary in questo Magic Quadrant™ per il terzo anno consecutivo.
+Scarica il report
+Servizi Professionali FortiCare
+Servizi
+Servizi Professionali
+Servizi Cloud Consulting
+Latest From Fortinet
+Global Threat Landscape Report, 2H 2022
+Nuove vulnerabilità sono in aumento, senza contare quelle esistenti.
+Scarica il report
+Gartner® Magic Quadrant™ 2022 per Enterprise Wired e Wireless LAN Infrastructure
+Fortinet è stata nominata Visionary in questo Magic Quadrant™ per il terzo anno consecutivo.
+Scarica il report
+Di più
+Azienda
+Azienda
+Chi siamo
+Team di leadership aziendale
+Casi Clienti
+Responsabilità sociale
+Relazioni con gli investitori
+Contattaci
+Centri di informazione per dirigenti
+Notizie
+Lavorare in Fortinet
+Carriera
+Programma Giovanni Talenti
+Formazione
+Panoramica
+NSE Training Institute
+Programma di Certificazioni
+Free Training
+Centri Training Autorizzati
+Security Awareness Training
+Istruzione
+Academic Partner Program
+Programma di Education Outreach
+Programma dei Veterani
+Platform
+Login alla Piattaforma NSE
+Risorse
+Panoramica
+Centro Risorse
+Eventi&Webinar
+Certificazione Prodotti
+Fortinet TV
+CyberGlossary
+Report degli analisti
+Libraries
+Libreria Icone Fortinet
+Libreria Video
+Guida agli ordini
+Connettiti con noi
+Blog
+Fortinet Community
+E-mail Centro preferenze
+Contattaci
+Partners
+PER PARTNER TECH
+Login Partner
+Diventa partner
+Unisciti al nostro Ecosistema
+PER CLIENTI
+Panoramica Ecosistema
+Fabric Connectors
+Trova un partner Fortinet
+Global System Integrators
+Fornitore di servizi
+Fornitore di servizi
+Fornitore di servizi/telecomunicazioni
+Sicurezza per gli operatori di telefonia mobile
+FortiGuard Labs
+Threat Intelligence
+Fortinet nominata Challenger nel Gartner
+®
+Magic Quadrant
+™
+per Security Service Edge
+Riconosciuta ora in otto report Gartner
+®
+Magic Quadrant
+™
+, affermiamo che ciò convalida la nostra innovativa strategia di convergenza e piattaforma.
+Richiedi il report
+Fortinet nominata Challenger nel Gartner
+®
+Magic Quadrant
+™
+per Security Service Edge
+Rafforza la tua rete con FortiOS 7.6
+Il sistema operativo di network security più potente del mondo è appena migliorato.
+Maggiori informazioni
+Leggi le novità
+Rafforza la tua rete con FortiOS 7.6
+Presentazione di FortiAI, The Generative AI Security Assistant
+Potenzia l’efficienza delle tue SecOps e la risposta agli incidenti.
+Maggiori informazioni
+Presentazione di FortiAI, The Generative AI Security Assistant
+Un’unica piattaforma per convergere, consolidare e sfruttare la cybersecurity basata sull’IA
+Secure Networking
+Sicurezza e convergenza di rete su tutti i perimetri, gli utenti e i dispositivi.
+Firewall di ultima generazione (NGFW)
+Switch
+Wireless LAN
+5G
+NAC
+Sicurezza basata sull’IA
+Security Operations
+Piattaforma operativa di sicurezza consolidata per accelerare i tempi di rilevamento e risposta
+SIEM
+SOAR
+EDR
+XDR
+NDR
+SOCaaS
+Oltre
+Unified SASE
+Accesso sicuro e protezione di reti, applicazioni e dati su qualsiasi cloud per la forza lavoro ibrida
+SASE
+Secure SD-WAN
+ZTNA
+Esperienza digitale (DEM)
+Firewall cloud
+WAF
+Sicurezza basata sull’IA
+LE NOSTRE TECNOLOGIE DI BASE COMPLETE
+Tecnologie basate sull’intelligenza artificiale
+FortiCloud
+FortiPoints
+FortiGuard Labs
+OT Security
+Ecosistema
+Fortinet News
+Fortinet amplia la piattaforma di soluzioni per la sicurezza OT per aumentare la protezione dei sistemi cyber-fisici
+Segmenta e proteggi le reti OT in ambienti industriali difficili con il nuovo switch rugged di Fortinet.
+LEGGI IL BLOG
+Fortinet amplia la sua offerta Unified SASE per connettere in modo sicuro qualsiasi utente a qualsiasi applicazione
+Più sedi cloud FortiSASE, una nuova appliance SASE e un consumo flessibile supportano l’adozione da parte dei clienti di Fortinet Unified SASE.
+LEGGI IL COMUNICATO STAMPA
+Piattaforma firewall mesh ibrido pionieristica
+Fortinet è stata riconosciuta come Sample Vendor per la piattaforma firewall Hybrid Mesh da Gartner® nel report 2023 Hype Cycle™ for Workload and Network Security.
+RICHIEDI IL REPORT
+Nuovi switch ad alte prestazioni collegano in modo sicuro il moderno campus
+FortiSwitch 600 e 2000 offrono una connettività intelligente e scalabile con AIOps e FortiGuard AI-Powered Security Services.
+LEGGI IL COMUNICATO STAMPA
+Fortinet nominata Gartner® Peer Insights™ Customers' Choice for Security Service Edges 2023
+Fortinet è raccomandato dal 96% dei Peer Reviewer di Gartner sulla base di 84 recensioni al 23 luglio.
+SCARICA IL REPORT
+Un forte performer in The Forrester Wave™: Network Analysis and Visibility, 2° trimestre 2023
+Scoprite perché le soluzioni NDR di Fortinet hanno ricevuto il punteggio più alto possibile nei criteri di rilevamento delle minacce e delle tecnologie di rilevamento.
+SCARICA IL REPORT
+FortiEDR consigliato dal 94% dei peer reviewer
+Fortinet è stata nominata tra i Customers' Choice di Gartner® Peer Insights™ per le piattaforme di protezione degli endpoint nel 2023.
+LEGGI IL BLOG
+Fortinet conquista i punteggi più alti nell’ultima valutazione MITRE AT T&CK
+Con il 98% di visibilità, il 95% di rilevamento analitico e il 100% di informazioni su Linux, FortiEDR offre informazioni critiche sugli attacchi.
+LEGGI IL BLOG
+Fortinet è uno dei fornitori di sicurezza OT in più rapida crescita
+Fortinet riconosciuta come unico leader nel Westlands Advisory 2023 IT/OT Network Protection Platforms Navigator™
+SCARICA IL REPORT
+Leader nel Forrester Wave™: Soluzioni Zero Trust Edge, Q3 2023
+FortiSASE offre un valore leader del settore proteggendo gli utenti dentro e fuori la rete
+SCARICA IL REPORT
+Oltre 755.000 clienti si affidano a noi per le loro soluzioni di cybersecurity
+Fortinet offre le soluzioni più complete per aiutare i settori ad accelerare la sicurezza, massimizzare la produttività, preservare l’esperienza utente e ridurre il costo totale di proprietà.
+SCUOLA PRIMARIA E SECONDARIA
+ISTRUZIONE SUPERIORE
+Retail
+SERVIZI FINANZIARI
+PRODUZIONE
+ICS e SCADA
+SANITÀ
+VEDI TUTTI I SETTORI
+Esperienze con Fortinet
+Lo European Tour ospita uno degli ambienti BYOD (Bring Your Own Device) più grandi e complessi del settore sportivo, con fino a 25.000 fan, media e stakeholder chiave che partecipano ai tornei di golf ogni giorno, distribuiti in una stagione di 40 tornei in 30 Paesi. Fortinet fornirà competenze e soluzioni di sicurezza innovative per supportare il percorso di innovazione digitale del Tour.
+ULTERIORI INFORMAZIONI
+Fortinet è lieta di collaborare con Romain Attanasio, un rinomato skipper professionista francese, che porterà il marchio Fortinet in tutto il mondo durante la sfida Vendée Globe, un giro del mondo in solitaria senza possibilità di approdo o assistenza esterna. Il Vendée Globe parte e termina nel pittoresco porto di Les Sables d’Olonne, sulla costa atlantica francese.
+ULTERIORI INFORMAZIONI
+Prossimi eventi
+Expert’s View Webinar Overview Normative – Transizione Digitale nei Comuni e nelle Province
+08/05/2024 (mer)
+11:00 - 12:00
+Negli ultimi anni il Dipartimento della
+Transizione Digitale,
+in collaborazione con ...
+Iscriviti
+Expert’s View Webinar Overview Soluzioni – Transizione Digitale nei Comuni e nelle Province
+15/05/2024 (mer)
+11:00 - 12:00
+Negli ultimi anni il Dipartimento della
+Transizione Digitale,
+in collaborazione con ...
+Iscriviti
+Security Day Milano
+30/05/2024 (gio)
+Il prossimo 30 Maggio Fortinet Italia ti aspetta al Superstudio Più a Milano per l'evento della ...
+Iscriviti
+Security Day Roma
+05/06/2024 (mer)
+Il prossimo 5 Giugno Fortinet Italia ti aspetta al Palazzo dei Congressi a Roma per l'evento ...
+Iscriviti
+Expert's View Webinar- SecOps Deep Dive: FortiRecon
+06/06/2024 (gio)
+Come parte della Fortinet SecOps Platform, FortiRecon fornisce una visione di ciò che gli attori ...
+Iscriviti
+Prodotti
+Impresa
+Secure Networking
+User e Device Security
+Security Operations
+Application Security
+Threat Intelligence di FortiGuard Labs
+Piccole e medie imprese
+Panoramica
+Fornitori di servizi
+Panoramica
+Partner
+Panoramica
+Ecosistema di alliance
+Trova un partner
+Diventa partner
+Accesso partner
+Centro fiduciario
+Prodotti affidabili
+Azienda affidabile
+Processo affidabile
+Partner fidati
+Certificazioni dei prodotti
+Altro
+Chi siamo
+Formazione
+Risorse
+Hub ransomware
+Assistenza
+Scarica
+Glossario di cybersecurity
+Opportunità di lavoro
+Programma per i talenti precoci
+Relazioni per gli investitori
+Responsabilità sociale
+Mappa del sito
+Inserisci indirizzo e-mail
+Abbonamento riuscito!
+Richiesta non riuscita. Riprova più tardi!
+Desidero ricevere notizie ed e-mail sui prodotti. Leggi la nostra informativa
+sulla privacy
+.
+address1
+Connettiti con noi
+Blog
+Community Fortinet
+Centro preferenze e-mail
+Contattaci
+Prodotti
+Impresa
+Secure Networking
+User e Device Security
+Security Operations
+Application Security
+Threat Intelligence di FortiGuard Labs
+Piccole e medie imprese
+Panoramica
+Fornitori di servizi
+Panoramica
+Partner
+Panoramica
+Ecosistema di alliance
+Trova un partner
+Diventa partner
+Accesso partner
+Centro fiduciario
+Prodotti affidabili
+Azienda affidabile
+Processo affidabile
+Partner fidati
+Certificazioni dei prodotti
+Altro
+Chi siamo
+Formazione
+Risorse
+Hub ransomware
+Assistenza
+Scarica
+Glossario di cybersecurity
+Opportunità di lavoro
+Programma per i talenti precoci
+Relazioni per gli investitori
+Responsabilità sociale
+Mappa del sito
+Inserisci indirizzo e-mail
+Abbonamento riuscito!
+Richiesta non riuscita. Riprova più tardi!
+Desidero ricevere notizie ed e-mail sui prodotti. Leggi la nostra informativa
+sulla privacy
+.
+address1
+Connettiti con noi
+Blog
+Community Fortinet
+Centro preferenze e-mail
+Contattaci
+Copyright © 2024 Fortinet , Inc. Tutti i diritti riservati.
+Condizioni del servizio
+Informativa sulla privacy
+Avviso per i residenti in California
+Non vendere o condividere i miei dati personali
+GDPR
+Accessibilità canadese
+Impostazioni dei cookie

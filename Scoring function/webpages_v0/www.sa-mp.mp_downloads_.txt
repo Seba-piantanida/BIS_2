@@ -1,0 +1,56 @@
+Downloads - San Andreas Multiplayer
+SA-MP San Andreas Multiplayer
+Current Release:
+SA-MP 0.3.7-R5-1-MP
+Players Online: 51660
+Servers Online: 728
+Navigation
+News
+Downloads
+Servers
+Forums
+Wiki
+Follow us
+SA-MP Client Download
+If you just want to play multiplayer, get this!
+Please note:
+SA-MP requires GTA:SA (DVD game for PC) v1.00 US/EU.
+Version 2.0 of the DVD version can be downgraded to 1.0 using a
+third-party patch
+.
+The Steam and Direct2Drive versions of GTA:SA are not currently supported and cannot be downgraded.
+The -R revisions contain bug fixes and security updates. Always use the latest revision.
+Download the SA-MP client installer from one mirror and install the program in to your GTA San Andreas folder.
+SA-MP 0.3.7-R5-1-MP Client
+Mirror by GTA-MP.CZ
+SA-MP 0.3.7-R5-1-MP Client
+Mirror by hzgaming.net
+SA-MP 0.3.7-R5-1-MP Client
+Mirror by uifserver.net
+You can use Open.mp Launcher as an alternative to SA-MP Client (you still need SA-MP installed though).
+Open.mp Launcher
+SA-MP Windows Server Download
+Note:
+This package also includes the scripting tools (PAWN compiler).
+Please review the
+SA-MP Services Agreement
+if you wish to run a public SA-MP server.
+SA-MP 0.3.7-R2 Windows Server
+SA-MP Linux Server Download
+SA-MP 0.3.7-R2 Linux Server (x86)
+Open.mp Server Download
+Open.mp is fully compatible with SA-MP server!
+Open.mp Server
+SA-MP and the contents herein, are not affiliated with Rockstar Games, Rockstar North or Take-Two Interactive Software Inc.
+Grand Theft Auto and Grand Theft Auto: San Andreas are registered trademarks of Take-Two Interactive Software Inc.
+portalsamp.com
+open.mp
+KSA
+KCNR
+Blood DM
+WTLS
+DGaming
+GTA.CZ
+MCNR
+HZ-RP
+UIF

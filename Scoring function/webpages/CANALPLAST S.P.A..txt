@@ -1,0 +1,10 @@
+The URL you requested has been blocked block Web Page Blocked! The page cannot be displayed. Please contact the administrator for additional information. URL: www.canalplast.it/ Client IP: 93.66.87.21 Attack ID: 20000051 Message ID: 000048546828
+
+The URL you requested has been blocked block Web Page Blocked! The page cannot be displayed. Please contact the administrator for additional information. URL: www.canalplast.com/ Client IP: 93.66.87.21 Attack ID: 20000051 Message ID: 000048546835
+
+The URL you requested has been blocked block Web Page Blocked! The page cannot be displayed. Please contact the administrator for additional information. URL: www.canalplast.it/azienda/ Client IP: 93.66.87.21 Attack ID: 20000051 Message ID: 000048546839
+
+The URL you requested has been blocked block Web Page Blocked! The page cannot be displayed. Please contact the administrator for additional information. URL: www.canalplast.it/contatti/ Client IP: 93.66.87.21 Attack ID: 20000051 Message ID: 000048546844
+
+The URL you requested has been blocked block Web Page Blocked! The page cannot be displayed. Please contact the administrator for additional information. URL: www.canalplast.it/cataloghi-2/ Client IP: 93.66.87.21 Attack ID: 20000051 Message ID: 000048546850
+

@@ -1,0 +1,105 @@
+TTPC: About us
+TTPC: About us
+Feed RSS Service
+Copy link location, and paste the URL into your RSS feed reader for updates about scheduled or accidental service interruptions, communications and dedicated messages from Market.
+Copy link Urgent Market Messages
+https://www.ttpc.sea-corridor.com/egts-services/api/v1/umm/rss
+Copy Communications link
+https://www.ttpc.sea-corridor.com/egts-services/api/v1/communication/IT/rss
+Help Feed RSS
+Online Services
+Visit SeaCorridor
+About us
+Business and Service
+UMM
+Communications
+Contacts
+Feed RSS
+EN
+IT
+EN
+IT
+EN
+About us
+Business and Service
+UMM
+Communications
+Contacts
+Feed RSS
+Visit SeaCorridor
+Online Services
+About us
+TThe Trans Tunisian Pipeline Company was established to ensure the transportation of natural gas of Algerian origin from the border between Tunisia and Algeria, at Oued Saf-Saf, to the Tunisian coast, at Cap Bon, where the TTPC transportation system connects to the TMPC submarine pipeline.
+Company and History
+TTPC is a wholly-owned subsidiary of SeaCorridor, a company jointly owned by Eni and Snam, with its registered office in San Donato Milanese, Italy, and has the primary function of transporting gas of Algerian origin through Tunisia.
+Eni is an integrated energy company with approximately 33,000 employees in 71 countries worldwide. It carries out exploration, development and extraction of oil and natural gas in 46 countries, trades oil, natural gas, LNG and electricity in 30 countries, and markets fuels and lubricants in 32 countries.
+Snam is the main European operator in the transport and storage of natural gas, with an infrastructure capable of enabling the energy transition. The group manages a pipeline network of approximately 41,000 km between Italy, Austria, France, Greece and the United Kingdom and holds 3.5% of the world's gas storage capacity. It is also one of the major operators in LNG regasification.
+Read More
+Transtunisian Pipeline
+The TTPC transport system was built to transport gas of Algerian origin to Italy and is the result of agreements between Eni and the Tunisian state in 1977 and renewed in 1991 for the construction of a second line; these agreements were ratified by the Tunisian parliament and have therefore become the law of the Republic of Tunisia.
+The TTPC pipeline came into operation in 1983.
+In 1994, the first significant expansion of the Transtunisian pipeline was completed, through the laying of a second line and the upgrading of the compression system.
+The transit through Tunisia was carried out, in the case of both the first and second lines, under agreements between Eni and the Tunisian State, signed on 25 October 1977 and 6 March 1991 respectively. Following approval by the National Assembly, these agreements became Tunisian state law.
+A new agreement was updated, and is the one still in force, in September 2019.
+Corporate Responsibility
+Trans Tunisian Pipeline Companyâs Corporate Responsibility is expressed in:
+the values of Eni Code of Ethics;;
+the full compliance with the applicable laws and regulations;
+the constant commitment to promote and develop the professional skills of its employees
+the behaviour and commitment that all personnel assume and promote day by day in the performance of their work.
+The Code of Ethics
+On 6 June 2023, TTPC's Board of Directors resolved to adopt the Code of Ethics of the shareholder SeaCorridor, which had already been approved by SeaCorridor's Board of Directors on 10 January 2023.
+The Code of Ethics brings together the set of values that the Company recognises, accepts and shares and the responsibilities it assumes towards the inside and outside of its organisation.
+Integrity, respect and protection of Human Rights, transparency, promotion of development, operational excellence, team work and collaboration, as well as innovation are the values that tell who we are, what we believe in, values that guide our actions, characterise our commitment and direct our behaviour and that of those who interact with us.
+The observance of the Code of Ethics by the directors, auditors, management and employees of TTPC, as well as by any third party who collaborates or works on behalf of or in the interest of TTPC, each within the scope of their functions and responsibilities, is of fundamental importance for the efficiency, reliability and reputation of TTPC.
+Allegati
+Code of Ethics
+737,7KB
+The 231 Model
+Legislative Decree No. 231 of 8 June 2001 introduced the regulation of the Administrative Liability of Companies under which they can be held liable, and consequently penalised, for certain offences committed or attempted in the interest or to the advantage of the company by its directors or employees. The liability of the company is excluded if it has adopted and effectively implemented, prior to the commission of offences, organisational, management and control models suitable for preventing such offences ('Model 231') and has established a body responsible for supervising the operation of and compliance with the models ('Supervisory Board').
+TTPC has adopted its own Model 231, of which the Code of Ethics represents a general principle that cannot be derogated, and ensures that it is constantly updated.
+The principles and contents of Model 231 are addressed to the members of the corporate bodies, management and employees of the Company (if any), as well as to all collaborators, consultants, partners, suppliers and counterparties in Italy and abroad and, in general, to all third parties acting on behalf of the Company.
+The principles and contents of Legislative Decree No. 231 of 2001 and of Model 231 are disseminated by means of training courses addressed to the persons of TTPC.
+Allegati
+Model 231
+365,4KB
+The Supervisory Board
+The Supervisory Board is collegial and consists of three external members and has a term of office of three years.
+Component
+Qualification
+Lawyer Massimiliano Lei
+External component (Chairman)
+Prof. Engr. Emanuele Gattiv
+External component
+Dr. Riccardo Amatucci
+External component
+The Company's Supervisory Board defines and carries out the activities for which it is responsible and is endowed, pursuant to Article 6(1)(b) of Legislative Decree No. 231 of 2001, with 'autonomous powers of initiative and control'. The Supervisory Board regulates its own functioning by means of specific regulations.
+The Supervisory Board also acts as Guarantor of the Code of Ethics with the task of promoting its implementation, dissemination and knowledge. The Guarantor also has the task of examining reports of possible violations of the Code of Ethics, promoting the most appropriate checks.
+The whistleblowing system
+TTPC has implemented the Guideline adopted by SeaCorridor for reports, even in anonymous form, of alleged irregularities, implementing specific communication channels for their receipt. Personnel and third parties may make written or oral reports concerning violations of which the reporter has become aware in the context of work.
+SeaCorridor ensures the receipt and analysis of each report by applying criteria of utmost confidentiality suitable, inter alia, to protect the honourability of the persons reported and the effectiveness of the investigations, consistent with the legal provisions on whistleblowing.
+Anyone who receives a report outside the prescribed channels shall promptly forward it through the prescribed communication channels.
+Communication channels provided:
+E-mail:
+whistleblowing@sea-corridor.com
+Voice mailbox (also accessible from abroad):
++39 06/59824299
+Direct meeting with the Internal Audit Function
+Allegati
+GUIDELINE OF REPORTS, ALSO ANONYMOUS, RECEIVED BY SEACORRIDOR SRL AND ITS SUBSIDIARIES
+369,0KB
+Privacy and data protection guidelines
+TTPC has implemented the Guideline on Privacy and data protection adopted by SeaCorridor, a document describing the general principles to be observed for the correct application of the regulations on the protection of personal data and the rules aimed at ensuring, within the company organisation, the correct management of activities relating to the processing of personal data.
+The Privacy and Data Protection Guideline defines the fulfilments and specifies the actions that must be taken in compliance with both national and European legislation with regard to the processing and protection of personal data, so that the processing of personal data is carried out in compliance with the fundamental rights and freedoms of natural persons and, in particular, with the right to the protection of personal data.
+In particular, the Privacy and data protection Guideline identifies a "data protection" management system based on the subdivision of roles and responsibilities, as well as of the related tasks and powers, at a corporate level, among the subjects involved in the processing of personal data, in order to guarantee, in compliance with the timeframes indicated by the GDPR, compliance with legal obligations.
+Furthermore, the Privacy and data protection Guideline provides for specific procedures aimed at implementing, within the corporate organisation, the various obligations provided for by the legislation on the protection of personal data, including a special procedure to manage any breaches of personal data (so-called 'data breach').
+Allegati
+Privacy and data protection
+440,3KB
+Organization Chart
+The organization chart shows the composition of our management by area of responsibility.
+Trans Tunisian Pipeline Company S.p.A. - Â© 2024
+Privacy Policy
+Cookie Policy
+Terms & Conditions
+RSS Feed Help

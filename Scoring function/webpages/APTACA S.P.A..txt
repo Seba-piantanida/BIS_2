@@ -1,0 +1,6 @@
+The URL you requested has been blocked block Web Page Blocked! The page cannot be displayed. Please contact the administrator for additional information. URL: www.aptaca.com/ITA/index.php Client IP: 93.66.87.21 Attack ID: 20000051 Message ID: 000018712087
+
+The URL you requested has been blocked block Web Page Blocked! The page cannot be displayed. Please contact the administrator for additional information. URL: www.aptaca.com/ENG/company.php Client IP: 93.66.87.21 Attack ID: 20000051 Message ID: 000018712092
+
+The URL you requested has been blocked block Web Page Blocked! The page cannot be displayed. Please contact the administrator for additional information. URL: www.aptaca.com/ENG/catalog.php Client IP: 93.66.87.21 Attack ID: 20000051 Message ID: 000018712101
+
