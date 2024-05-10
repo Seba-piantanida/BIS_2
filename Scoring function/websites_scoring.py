@@ -8,8 +8,8 @@ with open("keywords.json", 'r') as file:
 # Function to count occurrences of words in a text
 def count_words(text, words):
     count = 0
-    for word in words:
-        count += text.lower().count(word.lower())
+    for word, weight in words.items():
+        count += text.lower().count(word.lower()) * weight
     return count
 
 # Function to process a profile in a TXT file and count occurrences of words in each key
@@ -38,7 +38,7 @@ def process_txt_files(folder_path, output_file):
             writer.writerow(row)
 
 
-folder_path = Path("/Users/seba/Desktop/HTML crawler/webpages")  
+folder_path = Path("/Users/seba/Desktop/BIS_2/Scoring function/webpages")  
 output_file = "webpages_scoring.csv"
 
 process_txt_files(folder_path, output_file)

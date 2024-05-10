@@ -9,8 +9,8 @@ with open("keywords.json", 'r') as file:
 #occurrences of words in a text
 def count_words(text, words):
     count = 0
-    for word in words:
-        count += text.lower().count(word.lower())
+    for word, weight in words.items():
+        count += text.lower().count(word.lower()) * weight
     return count
 
 #process a profile in JSON file and count occurrences of words in each key

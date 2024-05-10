@@ -1,5 +1,49 @@
 {
-    "ESG": ["sostenibilità", "energetica", "carbon", "esg", "green", "Sustainability", "renewable", "social", "comunità", "ethic", "CSR", "paralympic", "paraolimpiadi"],
-    "GENDER EQUALITY": ["gender", "equality", "diversity", "inclusion", "women", "women's rights", "feminism", "donne", "inclusione", "parità", "parità di genere", "gender equality"],
-    "VOLLEYBALL": ["sport", "allenatore","coach", "partita", "game", "campionato", "championship", "athlete", "beach volley", "olympic", "volleyball", "pallavolo", "atleta", "olimpiadi", "paralympic", "paraolimpiadi"]
+  "ESG": {
+      "sostenibilità": 10,
+      "energetica": 7,
+      "carbon": 9,
+      "esg": 10,
+      "green": 8,
+      "Sustainability": 10,
+      "renewable": 9,
+      "social": 6,
+      "comunità": 6,
+      "ethic": 7,
+      "CSR": 9,
+      "paralympic": 4,
+      "paraolimpiadi": 4
+  },
+  "GENDER EQUALITY": {
+      "gender": 9,
+      "equality": 10,
+      "diversity": 9,
+      "inclusion": 9,
+      "women": 10,
+      "women's rights": 9,
+      "feminism": 8,
+      "donne": 10,
+      "inclusione": 9,
+      "parità": 9,
+      "parità di genere": 10,
+      "gender equality": 10
+  },
+  "VOLLEYBALL": {
+      "sport": 8,
+      "allenatore": 8,
+      "coach": 8,
+      "partita": 7,
+      "game": 7,
+      "campionato": 8,
+      "championship": 8,
+      "athlete": 9,
+      "beach volley": 9,
+      "olympic": 8,
+      "volleyball": 10,
+      "pallavolo": 10,
+      "atleta": 9,
+      "olimpiadi": 8,
+      "paralympic": 7,
+      "paraolimpiadi": 7
   }
+}
