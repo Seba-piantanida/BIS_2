@@ -18,7 +18,7 @@ def count_words(text, words):
 # Function to process a profile in a TXT file and count occurrences of words in each key
 def process_profile(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
-        name = Path(file_path).stem  # Use file name as the 'name' value
+        name = Path(file_path).stem 
         content = file.read()
         total_words = len(content.split())
         counts = {key: count_words(content, words) for key, words in keywords.items()}
@@ -46,7 +46,7 @@ def process_txt_files(folder_path, output_file):
             writer.writerow(row)
 
 
-folder_path = Path("/Users/seba/Desktop/BIS_2/Scoring function/webpages")  
+folder_path = Path("webpages/")  
 output_file = "webpages_scoring.csv"
 
 process_txt_files(folder_path, output_file)

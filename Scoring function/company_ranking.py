@@ -1,7 +1,7 @@
 import pandas as pd
 
-linkedin_df = pd.read_csv('/Users/seba/Desktop/BIS_2/Scoring function/linkedin_scoring_companies.csv')
-webpage_df = pd.read_csv('/Users/seba/Desktop/BIS_2/Scoring function/webpages_scoring.csv')
+linkedin_df = pd.read_csv('linkedin_scoring_companies.csv')
+webpage_df = pd.read_csv('webpages_scoring.csv')
 
 linkedin_df['normalized_score'] = ((linkedin_df['score'] - linkedin_df['score'].min()) / (linkedin_df['score'].max() - linkedin_df['score'].min()))
 webpage_df['normalized_score'] = ((webpage_df['score'] - webpage_df['score'].min()) / (webpage_df['score'].max() - webpage_df['score'].min()))
