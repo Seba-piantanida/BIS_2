@@ -4,7 +4,9 @@ from pathlib import Path
 import pandas as pd
 
 with open("keywords.json", 'r') as file:
-    keywords = json.load(file)
+    data = json.load(file)
+    keywords = {category: values["keywords"] for category, values in data.items()}
+    weights = {category: values["weight"] for category, values in data.items()}
 
 #occurrences of words in a text
 def count_words(text, words):
@@ -26,19 +28,25 @@ def process_profile(file_path):
             total_words += len(post_text.split())
             for key, words in keywords.items():
                 counts[key] += count_words(post_text, words)
-        return name, total_words, counts
+        esg_count = counts['ESG']
+        gender_count = counts['GENDER EQUALITY']
+        volley_count = counts['VOLLEYBALL']
+        score = ((esg_count / (total_words + 1))*weights['ESG'] + (gender_count / (total_words + 1))*weights['GENDER EQUALITY'] + (volley_count / (total_words + 1))*weights['VOLLEYBALL'])*10
+        score = round(score, 2)
+        score = round(score, 2)
+        return name, total_words,  score, counts
 
 # Process each JSON file and save the results to a CSV file
 def process_json_files(folder_path, output_file):
     with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ['name', 'total_words'] + list(keywords.keys())
+        fieldnames = ['name', 'total_words', 'score'] + list(keywords.keys())
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
 
         
         for file_path in folder_path.glob('*.json'):
-            name, total_words, counts = process_profile(file_path)
-            writer.writerow({'name': name, 'total_words': total_words, **counts})
+            name, total_words, score, counts = process_profile(file_path)
+            writer.writerow({'name': name, 'total_words': total_words, **counts, 'score': score})
 
 
 folder_path = Path("profiles_json/")
