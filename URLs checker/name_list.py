@@ -25,6 +25,6 @@ def main(input_file, output_file):
                     output.write(name + '\n')
 
 if __name__ == "__main__":
-    input_file = "file_a_filtered.csv"
-    output_file = "output.txt"
+    input_file = "filtered_linkedin_profiles.csv"
+    output_file = "output_1.txt"
     main(input_file, output_file)
