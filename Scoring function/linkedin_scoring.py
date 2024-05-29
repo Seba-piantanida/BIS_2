@@ -9,14 +9,13 @@ with open("data/keywords.json", 'r') as file:
     keywords = {category: values["keywords"] for category, values in data.items()}
     weights = {category: values["weight"] for category, values in data.items()}
 
-# Occurrences of words in a text
+
 def count_words(text, words):
     count = 0
     for word, weight in words.items():
         count += text.lower().count(word.lower()) * weight
     return count
 
-# Process a profile in JSON file and count occurrences of words in each key
 def process_profile(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         data = json.load(file)
@@ -32,11 +31,10 @@ def process_profile(file_path):
         esg_count = counts['ESG']
         gender_count = counts['GENDER EQUALITY']
         volley_count = counts['VOLLEYBALL']
-        score = ((esg_count / (total_words + 1))*weights['ESG'] + (gender_count / (total_words + 1))*weights['GENDER EQUALITY'] + (volley_count / (total_words + 1))*weights['VOLLEYBALL'])*30
+        score = ((esg_count / (total_words + 1))*weights['ESG'] + (gender_count / (total_words + 1))*weights['GENDER EQUALITY'] + (volley_count / (total_words + 1))*weights['VOLLEYBALL'])*10
         score = round(score, 2)
         return name, total_words, score, counts
 
-# Process each JSON file and save the results to a CSV file
 def process_json_files(folder_path, output_file):
     files = list(folder_path.glob('*.json'))
     with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
@@ -58,7 +56,7 @@ def main():
     df2 = None
 
     try:
-        df2 = pd.read_csv('TOP 500_C-LEVEL.csv', sep=';', header=None)
+        df2 = pd.read_csv('data/TOP 500_C-LEVEL.csv', sep=';', header=None)
     except pd.errors.ParserError as e:
         print("Tokenization error:", e)
 

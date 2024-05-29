@@ -23,7 +23,7 @@ def process_profile(file_path):
         esg_count = counts['ESG']
         gender_count = counts['GENDER EQUALITY']
         volley_count = counts['VOLLEYBALL']
-        score = ((esg_count / (total_words + 1))*weights['ESG'] + (gender_count / (total_words + 1))*weights['GENDER EQUALITY'] + (volley_count / (total_words + 1))*weights['VOLLEYBALL'])*30
+        score = ((esg_count / (total_words + 1))*weights['ESG'] + (gender_count / (total_words + 1))*weights['GENDER EQUALITY'] + (volley_count / (total_words + 1))*weights['VOLLEYBALL'])*10
         score = round(score, 2)
         return name, total_words, score, counts
 

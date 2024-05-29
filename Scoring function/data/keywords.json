@@ -60,32 +60,48 @@
           "feminism": 2,
           "LGBT": 2,
           "LGBTQIA+": 2,
-          "equal pay": 3
+          "equal pay": 3,
+          "women's empowerment": 3,
+          "gender equity": 2,
+          "gender justice": 3,
+          "gender mainstreaming": 2,
+          "gender representation": 2
+          
       }
   },
-  "VOLLEYBALL": {
-      "weight": 1,
-      "keywords": {
-          "sport": 2,
-          "sports": 2,
-          "allenatore": 3,
-          "coach": 3,
-          "partita": 3,
-          "game": 3,
-          "campionato": 2,
-          "championship": 2,
-          "atleta": 3,
-          "athlete": 3,
-          "beach volley": 3,
-          "beach volleyball": 3,
-          "olimpiadi": 2,
-          "Olympics": 2,
-          "giochi olimpici": 2,
-          "Olympic Games": 2,
-          "atleta paralimpico": 2,
-          "Paralympic athlete": 2,
-          "Paraolimpiadi": 1,
-          "Paralympic Games": 1
-      }
-  }
+  
+    "VOLLEYBALL": {
+        "weight": 1,
+        "keywords": {
+            "sport": 2,
+            "sports": 2,
+            "allenatore": 2,
+            "coach": 2,
+            "partita": 2,
+            "game": 2,
+            "campionato": 2,
+            "championship": 2,
+            "atleta": 3,
+            "athlete": 3,
+            "beach volley": 3,
+            "beach volleyball": 3,
+            "olimpiadi": 2,
+            "Olympics": 2,
+            "giochi olimpici": 2,
+            "Olympic Games": 2,
+            "atleta paralimpico": 2,
+            "Paralympic athlete": 2,
+            "Paraolimpiadi": 1,
+            "Paralympic Games": 1,
+            "tournament": 3,
+            "torneo": 3,
+            "training": 2,
+            "allenamento": 2,
+            "league": 3,
+            "match": 2,
+            "volleyball club": 2,
+            "club di pallavolo": 2
+        }
+    }
+  
 }

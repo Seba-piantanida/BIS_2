@@ -4,12 +4,12 @@ import json
 from tqdm import tqdm
 
 def count_words_from_linkedin():
-    with open("../Scoring function/keywords.json", "r") as keywords_file:
+    with open("../Scoring function/data/keywords.json", "r") as keywords_file:
         keywords_json = keywords_file.read()
 
     keywords = json.loads(keywords_json)
 
-    word_counts = {word: 0 for category in keywords for word in keywords[category]["keywords"]}
+    word_counts = {category: {word: 0 for word in keywords[category]["keywords"]} for category in keywords}
 
     folder_path = "../Scoring function/profiles_json"
 
@@ -27,18 +27,18 @@ def count_words_from_linkedin():
                         for category in keywords:
                             for word in keywords[category]["keywords"]:
                                 if word.lower() in post_text.lower():
-                                    word_counts[word] += post_text.lower().count(word)
+                                    word_counts[category][word] += post_text.lower().count(word)
                 pbar.update(1)
 
     return word_counts
 
 def count_words_from_web():
-    with open("../Scoring function/keywords.json", "r") as keywords_file:
+    with open("../Scoring function/data/keywords.json", "r") as keywords_file:
         keywords_json = keywords_file.read()
 
     keywords = json.loads(keywords_json)
 
-    word_counts = {word: 0 for category in keywords for word in keywords[category]["keywords"]}
+    word_counts = {category: {word: 0 for word in keywords[category]["keywords"]} for category in keywords}
 
     folder_path = "../Scoring function/webpages"
 
@@ -53,36 +53,40 @@ def count_words_from_web():
                     for category in keywords:
                         for word in keywords[category]["keywords"]:
                             if word.lower() in text.lower():
-                                word_counts[word] += text.lower().count(word)
+                                word_counts[category][word] += text.lower().count(word)
                 pbar.update(1)
 
     return word_counts
 
 def combine_word_counts(table1, table2, output_file):
-    word_counts = {word: table1.get(word, 0) + table2.get(word, 0) for word in set(table1) | set(table2)}
+    combined_counts = {}
+    for category in table1:
+        combined_counts[category] = {word: table1[category].get(word, 0) + table2[category].get(word, 0) for word in set(table1[category]) | set(table2[category])}
 
-    with open(output_file, mode='w', newline='') as csvfile:
-        fieldnames = ['Word', 'Count']
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        writer.writeheader()
-        for word, count in word_counts.items():
-            writer.writerow({'Word': word, 'Count': count})
+    for category, word_counts in combined_counts.items():
+        category_output_file = f"{output_file}_{category}.csv"
+        with open(category_output_file, mode='w', newline='') as csvfile:
+            fieldnames = ['Word', 'Count']
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
+            for word, count in word_counts.items():
+                writer.writerow({'Word': word, 'Count': count})
 
-    print("Combined word counts saved in", output_file)
+        print(f"Combined word counts for {category} saved in {category_output_file}")
 
 def main():
     choice = input("Enter 'w' for web, 'l' for LinkedIn, or 'g' for global: ")
     
     if choice == 'w':
         table_web = count_words_from_web()
-        combine_word_counts({}, table_web, 'words_count_web.csv')
+        combine_word_counts({}, table_web, 'words_count_web')
     elif choice == 'l':
         table_linkedin = count_words_from_linkedin()
-        combine_word_counts({}, table_linkedin, 'words_count_linkedin.csv')
+        combine_word_counts({}, table_linkedin, 'words_count_linkedin')
     elif choice == 'g':
         table_web = count_words_from_web()
         table_linkedin = count_words_from_linkedin()
-        combine_word_counts(table_web, table_linkedin, 'words_count.csv')
+        combine_word_counts(table_web, table_linkedin, 'words_count')
     else:
         print("Invalid choice. Please enter 'w', 'l', or 'g'.")
 
